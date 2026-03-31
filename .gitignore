@@ -1,0 +1,20 @@
+# Temporary files
+~$*
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Virtual environments
+.venv/
+env/
+venv/
+venv.bak/
+.env
+
+# Logs
+*.log
+
+# Cache
+__pycache__/
+.cache/
